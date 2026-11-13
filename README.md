@@ -1,3 +1,7 @@
+## Video de sustentación
+
+[Ver video](https://youtu.be/C0f6GLTtk1I)
+
 # Proyecto final · Pronóstico de series de tiempo en producción
 
 **Computación Avanzada — Cierre del curso**
